@@ -1,1 +1,1 @@
-# machina-learning-project-2020
+# machine-learning-project-2020
